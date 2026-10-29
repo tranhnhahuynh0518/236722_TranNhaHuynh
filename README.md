@@ -9,7 +9,7 @@ Bài thi thực hành tổng hợp Điện toán đám mây: React + Node.js + E
 - Database MongoDB Atlas: `236722_TraNhaHuynh` (collection `foods`)
 - Docker Hub backend image: `https://hub.docker.com/r/trannhahuynh0518/backend`
 - Docker Hub frontend image: `https://hub.docker.com/r/trannhahuynh0518/frontend`
-- URL frontend Render: `CHUA_TRIEN_KHAI`
+- URL frontend Render: `https://web-236722.onrender.com`
 - URL backend Render: `CHUA_TRIEN_KHAI`
 ## Cấu trúc
 - `backend/`: API Node.js / Express / Mongoose
