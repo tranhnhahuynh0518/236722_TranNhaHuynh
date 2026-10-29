@@ -1,0 +1,17 @@
+# Dependencies & builds
+**/node_modules/
+**/dist/
+**/coverage/
+# Secrets: NEVER COMMIT
+.env
+.env.*
+**/.env
+**/.env.*
+!**/.env.example
+# Local files
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+.vscode/
+.idea/
