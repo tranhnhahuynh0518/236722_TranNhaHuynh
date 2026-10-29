@@ -6,12 +6,11 @@ Bài thi thực hành tổng hợp Điện toán đám mây: React + Node.js + E
 - MSSV: `236722`
 - Họ tên: `TranNhaHuynh`
 - Repository GitHub: `https://github.com/tranhnhahuynh0518/236722_TranNhaHuynh`
-- Database MongoDB Atlas: `MSSV_HoTen` (collection `foods`)
-- Docker Hub backend image: `CHUA_CO`
+- Database MongoDB Atlas: `236722_TraNhaHuynh` (collection `foods`)
+- Docker Hub backend image: `https://hub.docker.com/r/trannhahuynh0518/backend`
 - Docker Hub frontend image: `CHUA_CO`
 - URL frontend Render: `CHUA_TRIEN_KHAI`
 - URL backend Render: `CHUA_TRIEN_KHAI`
-
 ## Cấu trúc
 - `backend/`: API Node.js / Express / Mongoose
 - `frontend/`: giao diện React / Vite, web server Express phục vụ SPA
