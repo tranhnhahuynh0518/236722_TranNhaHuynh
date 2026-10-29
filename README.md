@@ -10,7 +10,7 @@ Bài thi thực hành tổng hợp Điện toán đám mây: React + Node.js + E
 - Docker Hub backend image: `https://hub.docker.com/r/trannhahuynh0518/backend`
 - Docker Hub frontend image: `https://hub.docker.com/r/trannhahuynh0518/frontend`
 - URL frontend Render: `https://web-236722.onrender.com`
-- URL backend Render: `CHUA_TRIEN_KHAI`
+- URL backend Render: `https://api-236722.onrender.com`
 ## Cấu trúc
 - `backend/`: API Node.js / Express / Mongoose
 - `frontend/`: giao diện React / Vite, web server Express phục vụ SPA
