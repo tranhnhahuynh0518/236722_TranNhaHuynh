@@ -1,0 +1,50 @@
+[
+  {
+    "foodId": "F001",
+    "name": "Phở bò",
+    "category": "Món nước",
+    "cuisine": "Miền Bắc",
+    "ingredients": [
+      "Bánh phở",
+      "Thịt bò",
+      "Hành",
+      "Nước dùng"
+    ],
+    "price": 50000,
+    "quantity": 30,
+    "description": "Phở bò truyền thống với nước dùng thơm ngọt.",
+    "imageUrl": ""
+  },
+  {
+    "foodId": "F002",
+    "name": "Bún bò Huế",
+    "category": "Món nước",
+    "cuisine": "Miền Trung",
+    "ingredients": [
+      "Bún",
+      "Thịt bò",
+      "Sả",
+      "Ớt"
+    ],
+    "price": 55000,
+    "quantity": 22,
+    "description": "Bún bò Huế đậm đà, có vị cay nhẹ.",
+    "imageUrl": ""
+  },
+  {
+    "foodId": "F003",
+    "name": "Cơm tấm sườn",
+    "category": "Cơm",
+    "cuisine": "Miền Nam",
+    "ingredients": [
+      "Gạo tấm",
+      "Sườn nướng",
+      "Trứng",
+      "Dưa leo"
+    ],
+    "price": 45000,
+    "quantity": 18,
+    "description": "Cơm tấm sườn nướng dùng cùng nước mắm.",
+    "imageUrl": ""
+  }
+]
